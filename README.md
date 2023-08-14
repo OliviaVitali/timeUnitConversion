@@ -18,14 +18,14 @@ Pick your starting unit then ending units:
   
   
   ## H2 CURRENT TODO:
-  - [ ]foo function unnecessary and should be removed
-  - [ ]Create test units and do error checking
-  - [ ]Create error handling
-  - [ ]Loop the menu until the user is finished with the program.
+  - foo function unnecessary and should be removed
+  - Create test units and do error checking
+  - Create error handling
+  - Loop the menu until the user is finished with the program.
   
   ## H2 STRETCH GOALS:
-  - [ ]Include negative time
-  - [ ]Include a calender function
-  - [ ]Include a clock function
-  - [ ]Integrate Clock and Calender which allow a user to know how far into the future/past a date is from another date.
+  - Include negative time
+  - Include a calender function
+  - Include a clock function
+  - Integrate Clock and Calender which allow a user to know how far into the future/past a date is from another date.
   
